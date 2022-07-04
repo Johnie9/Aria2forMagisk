@@ -29,7 +29,7 @@ The default configuration files are [P3TREX/aria2.conf](https://github.com/P3TER
 **Remember:**
   1. The aria2.conf file cannot be renamed or removed *(means there must be an aria2.conf)* but you can modify it or you can just create a new file and name it aria2.conf and then put your own configurations into it
 
-  2. files referered in aria2.conf must have a prefix ```/data/adb/module/aria2_for_magisk/config```
+  2. files referered in aria2.conf must have a prefix ```/data/adb/modules/aria2_for_magisk/config```
   
   3. scripts that will be executed should have a suffix ```.sh```
   
